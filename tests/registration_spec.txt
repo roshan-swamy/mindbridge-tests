@@ -1,3 +1,5 @@
+# This is so new even after having used Git for the last 3-4 years! Never had to get down to where it all started.
+
 import { test, expect } from '@playwright/test';
 
 test('User can register successfully', async ({ page }) => {
